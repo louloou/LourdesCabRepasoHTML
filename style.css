@@ -1,0 +1,47 @@
+h1 {
+    color: red;
+}
+body{
+    background-color: lightgray;
+}
+p{
+    font-size: 20px;
+    background-color: lightblue;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+}
+img {
+    border: 2px solid black;
+}
+table {
+    padding: 10px;
+}
+img{
+    width: 200px;
+}
+#titulo-grande{
+    font-size: 30px;
+}
+ul li {
+    color: purple;
+  }
+
+#Chocotorta { 
+    font-family: "Times New Roman", Times, serif;
+    font-size: 16px;
+    background-color: yellow;
+}
+table {
+    border: 1px solid black;
+    border-collapse: collapse; /* Para que el borde sea único */
+  }
+  
+  th, td {
+    border: 1px solid black; /* Añade borde a las celdas también */
+    padding: 5px;
+  }
+  
