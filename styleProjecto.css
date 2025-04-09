@@ -5,6 +5,7 @@ h1{
     border-radius: 1rem;
     width: 300px;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    background-color: rgb(185, 229, 247);
 }
 
 img{
